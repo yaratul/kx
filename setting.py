@@ -29,13 +29,13 @@ from titles import get_title
 # Constant variables (Config variables)
 # ─────────────────────────────────────────────────────────────
 # Token for bot token
-TOKEN: str = "Bot Token"
+TOKEN: str = "7719275492:AAGZtpfrUUnoIeM7-NlXYJzwuWO-670grGA"
 
 # Support or sponsor group ID
-GROUP: str = "@Sponsor group username"
+GROUP: str = "@nxxnto"
 
 # Chat-ID of support admin to send errors 
-SUPPORT: int = 1234567890
+SUPPORT: int = 5537383735
 
 # Regular expression for Anti-Link
 LINK_REGIX: str = r"(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?"
@@ -44,7 +44,7 @@ LINK_REGIX: str = r"(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)?[a-z0-
 TOKEN_REGIX: str = r"[0-9]{9}:[a-zA-Z0-9_-]{35}\b"
 
 # Share LINK & TEXT used to share bot
-SHARE_TEXT: str = "t.me/BotUsername"
+SHARE_TEXT: str = "t.me/addmio_gc_bot"
 SHARE_LINK: str = (
     f"\n💥 Powerful & Free group guard bot for groups and super-groups!"
     f"\n\n👾 Start now and enjoy"
